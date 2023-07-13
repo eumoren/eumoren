@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eumoren
-- 👀 I’m interested in Everything that has to do with data science
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on data science and data analytics projects
+- 👀 I’m interested in Everything that has to do with coding & solving problems
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on Business analysis and Software Engineering
 - 📫 How to reach me emmumoren@gmail.com, cyberfacey2k@gmail.com
 
 <!---
