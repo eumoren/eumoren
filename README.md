@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -36,21 +36,23 @@ My work has covered industrial automation, oil and gas services, banking and rem
 | SME loans in the **₦200M+ range** processed with a **sub-5%** default rate | Diamond Bank Plc (now Access Bank) |
 | Up to **20%** above quarterly client acquisition targets | Diamond Bank Plc (now Access Bank) |
 | **10-member** team across **4 time zones** | Excelerate remote internships |
-| **Star Performer** distinction | Excelerate Business Development internship |
+| **Star Performer** award | Excelerate Business Development Remote Internship, with Grant Thornton and RIT ([certificate](certificates/excelerate-business-development.pdf)) |
 
 ---
 
 ## 💼 Experience
 
-**Project Management Associate Intern** · Excelerate (Remote, Global) · *Apr – May 2026*
+**Project Management Associate Intern** · Excelerate (Remote, Global), supported by Saint Louis University · *Apr – May 2026*
 - Worked in a 10-member global team across 4 time zones to design a 3-month virtual Masterclass framework on Time & Resource Management.
 - Produced a full Project Planning Toolkit: WBS, 12-week Gantt chart (Monday.com), Risk Register, Stakeholder Communication Plan, Resource Management Plan and Team Coordination Plan.
 - Completed 32 project tasks and 4 of 8 milestones in the internship window while keeping the project On-Track.
 - Ran a formal 3-tier escalation workflow and handover protocols for cross-time-zone continuity.
+- Certificate of achievement, May 6, 2026: [view certificate](certificates/excelerate-project-management.pdf).
 
-**Business Development Remote Intern** · Excelerate (Remote, Global) · *Mar – Apr 2026* · ⭐ *Star Performer*
+**Business Development Remote Intern** · Excelerate (Remote, Global), in partnership with Grant Thornton and supported by Rochester Institute of Technology · *Mar – Apr 2026* · ⭐ *Star Performer*
 - Delivered competitor intelligence, market landscape research, stakeholder engagement matrices and client pipeline documentation.
 - Turned research findings into actionable BD strategy recommendations under tight deadlines.
+- Named Star Performer on completion, April 9, 2026: [view certificate](certificates/excelerate-business-development.pdf).
 
 **Business & Commercial Supervisor** · Julinat Technical Services Limited · *2019 – March 2026*
 - Secured contracts in the ₦300M+ range through structured proposal development, CRM-driven pipeline tracking and strategic client engagement.
