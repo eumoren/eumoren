@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -107,8 +107,9 @@ Open to remote AI training data and annotation projects.
 ## 🎓 Education & Certifications
 
 - **B.A. Ed. Geography**, University of Lagos (2004 – 2009)
-- **Digital Witch Support Community**: In-Demand IT Skills Training (Feb 2026, Certificate ID DWSC19292)
-- **ALX Africa**: Virtual Assistant Skills Programme, 10 weeks (Sept 2025)
+- **Digital Witch Support Community**: In-Demand IT Skills Training (Feb 2026, Certificate ID DWSC19292), [view certificate](certificates/digital-witch-in-demand-it-skills.pdf)
+- **ALX Africa**: Virtual Assistance Skills in the Digital Age, 10-week programme (Sept 2025), [view certificate](certificates/alx-virtual-assistance.png), [verify online](https://savanna.alxafrica.com/certificates/67eBYn3mJX)
+- **Outskill**: Generative AI Mastermind, certificate of completion, [view certificate](certificates/outskill-generative-ai-mastermind.pdf)
 - **QMS ISO 9001:2015** Internal Auditing
 - **Graduate Member**, Nigerian Institute of Management
 - Procurement, Fleet & Warehouse Management · Customer Service Excellence · AI Productivity & Automation Tools
