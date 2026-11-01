@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -42,14 +42,6 @@ My work has covered industrial automation, oil and gas services, banking and rem
 
 ## 💼 Experience
 
-**Business & Commercial Supervisor** · Julinat Technical Services Limited · *2019 – March 2026*
-- Secured contracts in the ₦300M+ range through structured proposal development, CRM-driven pipeline tracking and strategic client engagement.
-- Grew the client portfolio by 40% within two years through targeted lead generation and consistent account follow-through.
-- Automated 50% of compliance verification processes, cutting client onboarding time by 20%.
-- Led procurement from vendor sourcing to contract execution, reducing lead times by 25%.
-- Produced KPI reports and market intelligence that informed senior management's competitive positioning.
-- Trained staff on compliance standards, documentation protocols and CRM best practices.
-
 **Project Management Associate Intern** · Excelerate (Remote, Global) · *Apr – May 2026*
 - Worked in a 10-member global team across 4 time zones to design a 3-month virtual Masterclass framework on Time & Resource Management.
 - Produced a full Project Planning Toolkit: WBS, 12-week Gantt chart (Monday.com), Risk Register, Stakeholder Communication Plan, Resource Management Plan and Team Coordination Plan.
@@ -59,6 +51,14 @@ My work has covered industrial automation, oil and gas services, banking and rem
 **Business Development Remote Intern** · Excelerate (Remote, Global) · *Mar – Apr 2026* · ⭐ *Star Performer*
 - Delivered competitor intelligence, market landscape research, stakeholder engagement matrices and client pipeline documentation.
 - Turned research findings into actionable BD strategy recommendations under tight deadlines.
+
+**Business & Commercial Supervisor** · Julinat Technical Services Limited · *2019 – March 2026*
+- Secured contracts in the ₦300M+ range through structured proposal development, CRM-driven pipeline tracking and strategic client engagement.
+- Grew the client portfolio by 40% within two years through targeted lead generation and consistent account follow-through.
+- Automated 50% of compliance verification processes, cutting client onboarding time by 20%.
+- Led procurement from vendor sourcing to contract execution, reducing lead times by 25%.
+- Produced KPI reports and market intelligence that informed senior management's competitive positioning.
+- Trained staff on compliance standards, documentation protocols and CRM best practices.
 
 **Business Development Officer** · Engineering Automation Technology Ltd · *2017 – 2018*
 - Secured industrial automation contracts in the ₦200M+ range through proposals and technical client presentations.
