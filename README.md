@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -47,9 +47,11 @@ My work has covered industrial automation, oil and gas services, banking and rem
 - Produced a full Project Planning Toolkit: WBS, 12-week Gantt chart (Monday.com), Risk Register, Stakeholder Communication Plan, Resource Management Plan and Team Coordination Plan.
 - Completed 32 project tasks and 4 of 8 milestones in the internship window while keeping the project On-Track.
 - Ran a formal 3-tier escalation workflow and handover protocols for cross-time-zone continuity.
+- Presented the final Project Planning Toolkit and monitoring dashboard.
 - Certificate of achievement, May 6, 2026: [view certificate](certificates/excelerate-project-management.pdf).
 
 **Business Development Remote Intern** · Excelerate (Remote, Global), in partnership with Grant Thornton and supported by Rochester Institute of Technology · *Mar – Apr 2026* · ⭐ *Star Performer*
+- Led the Team 3 business development group, produced most of the deliverables and presented the final analysis deck.
 - Delivered competitor intelligence, market landscape research, stakeholder engagement matrices and client pipeline documentation.
 - Turned research findings into actionable BD strategy recommendations under tight deadlines.
 - Named Star Performer on completion, April 9, 2026: [view certificate](certificates/excelerate-business-development.pdf).
