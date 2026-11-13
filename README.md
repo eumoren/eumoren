@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -62,11 +62,13 @@ My work has covered industrial automation, oil and gas services, banking and rem
 - Automated 50% of compliance verification processes, cutting client onboarding time by 20%.
 - Led procurement from vendor sourcing to contract execution, reducing lead times by 25%.
 - Produced KPI reports and market intelligence that informed senior management's competitive positioning.
+- Administered supplier registration and qualification on SAP Ariba, NipeX and NOGIC JQS and Dun & Bradstreet registrations; supported tenders for major international oil companies and engineering contractors.
 - Trained staff on compliance standards, documentation protocols and CRM best practices.
 
 **Business Development Officer** · Engineering Automation Technology Ltd · *2017 – 2018*
 - Secured industrial automation contracts in the ₦200M+ range through proposals and technical client presentations.
 - Coordinated client onboarding and OEM product demonstrations; tracked competitor activity to sharpen sales strategy.
+- Used a web-based ERP to raise requisitions, generate quotations and route internal approvals.
 
 **Project Manager / Personal Assistant** · Lagoon Park Integrated Co. Ltd · *2017*
 - Coordinated property inspection schedules, customer communication workflows and operational planning for senior leadership.
@@ -74,6 +76,7 @@ My work has covered industrial automation, oil and gas services, banking and rem
 **Affluent Banker / MSME Banker / Customer Service Officer** · Diamond Bank Plc (now Access Bank) · *2012 – 2016*
 - Managed high-net-worth client portfolios (₦40M+ range) and processed SME loans in the ₦200M+ range with a sub-5% default rate.
 - Exceeded quarterly client acquisition targets by up to 20%.
+- Used Oracle FLEXCUBE for account opening and servicing, and Newgen OmniScan and OmniFlow within DIS for account-opening document capture and workflow.
 
 ---
 
@@ -95,6 +98,8 @@ Open to remote AI training data and annotation projects.
 | Area | Tools |
 |---|---|
 | **CRM & Support** | HubSpot · Zoho CRM · Pipedrive · Salesforce · Zendesk · Freshdesk · Intercom |
+| **Procurement & Supplier Platforms** | SAP Ariba · NipeX · NOGIC JQS · Dun & Bradstreet (D&B) |
+| **Banking & Enterprise Systems** | Oracle FLEXCUBE · Newgen OmniScan · Newgen OmniFlow · Diamond Integrated Solutions (DIS) · Web-based ERP |
 | **Project & Workflow** | Monday.com · Jira · ClickUp · Asana · Trello |
 | **Lead Gen & Outreach** | Apollo.io · Lemlist |
 | **Automation & Productivity** | Zapier · Google Workspace · Loom |
@@ -102,7 +107,7 @@ Open to remote AI training data and annotation projects.
 | **AI & Generative Tools** | ChatGPT · Claude · Microsoft Copilot |
 | **Collaboration** | Slack · Zoom · Microsoft Teams · Google Meet |
 
-**Core strengths:** Business development · Proposal & tender writing · Pipeline management · Client onboarding & account management · Procurement & vendor management · KPI reporting · SOP development · Compliance · Stakeholder communication · Data annotation & quality review
+**Core strengths:** Business development · Proposal & tender writing · Pipeline management · Client onboarding & account management · Procurement & vendor management · Supplier registration & qualification · Tender & bid administration · KPI reporting · SOP development · Compliance · Stakeholder communication · Data annotation & quality review
 
 ---
 
