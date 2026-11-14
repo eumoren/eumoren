@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile (1).jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
+<img src="assets/profile.jpg" alt="Emmanuel Polycarp Umoren" width="150" style="border-radius:50%"/>
 
 # Emmanuel Polycarp Umoren
 
@@ -9,8 +9,9 @@
 
 📍 Lagos, Nigeria &nbsp;|&nbsp; 🌍 Open to remote, hybrid and global roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-polyumoren)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-poly-umoren/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmumoren@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eumoren.github.io-0f4c45?style=for-the-badge&logo=githubpages&logoColor=white)](https://eumoren.github.io/)
 
 </div>
 
@@ -36,7 +37,7 @@ My work has covered industrial automation, oil and gas services, banking and rem
 | SME loans in the **₦200M+ range** processed with a **sub-5%** default rate | Diamond Bank Plc (now Access Bank) |
 | Up to **20%** above quarterly client acquisition targets | Diamond Bank Plc (now Access Bank) |
 | **10-member** team across **4 time zones** | Excelerate remote internships |
-| **Star Performer** award | Excelerate Business Development Remote Internship, with Grant Thornton and RIT ([certificate](certificates/excelerate-business-development.pdf)) |
+| **Star Performer** award | Excelerate Business Development Remote Internship, with Grant Thornton and RIT ([certificate](https://eumoren.github.io/certificates/excelerate-business-development.pdf)) |
 
 ---
 
@@ -48,13 +49,13 @@ My work has covered industrial automation, oil and gas services, banking and rem
 - Completed 32 project tasks and 4 of 8 milestones in the internship window while keeping the project On-Track.
 - Ran a formal 3-tier escalation workflow and handover protocols for cross-time-zone continuity.
 - Presented the final Project Planning Toolkit and monitoring dashboard.
-- Certificate of achievement, May 6, 2026: [view certificate](certificates/excelerate-project-management.pdf).
+- Certificate of achievement, May 6, 2026: [view certificate](https://eumoren.github.io/certificates/excelerate-project-management.pdf).
 
 **Business Development Remote Intern** · Excelerate (Remote, Global), in partnership with Grant Thornton and supported by Rochester Institute of Technology · *Mar – Apr 2026* · ⭐ *Star Performer*
 - Led the Team 3 business development group, produced most of the deliverables and presented the final analysis deck.
 - Delivered competitor intelligence, market landscape research, stakeholder engagement matrices and client pipeline documentation.
 - Turned research findings into actionable BD strategy recommendations under tight deadlines.
-- Named Star Performer on completion, April 9, 2026: [view certificate](certificates/excelerate-business-development.pdf).
+- Named Star Performer on completion, April 9, 2026: [view certificate](https://eumoren.github.io/certificates/excelerate-business-development.pdf).
 
 **Business & Commercial Supervisor** · Julinat Technical Services Limited · *2019 – March 2026*
 - Secured contracts in the ₦300M+ range through structured proposal development, CRM-driven pipeline tracking and strategic client engagement.
@@ -62,6 +63,9 @@ My work has covered industrial automation, oil and gas services, banking and rem
 - Automated 50% of compliance verification processes, cutting client onboarding time by 20%.
 - Led procurement from vendor sourcing to contract execution, reducing lead times by 25%.
 - Produced KPI reports and market intelligence that informed senior management's competitive positioning.
+- Member of the management team throughout the role, reporting directly to top management on most matters.
+- Main point of contact liaising with the company’s OEMs; prepared for and attended industry exhibitions and contributed to updating the company brochure.
+- Developed the Business & Commercial department’s ISO objectives, procedures and documents from scratch and served as internal auditor for ISO 9001:2015, 14001:2015 and 45001:2018.
 - Administered supplier registration and qualification on SAP Ariba, NipeX and NOGIC JQS and Dun & Bradstreet registrations; supported tenders for major international oil companies and engineering contractors.
 - Trained staff on compliance standards, documentation protocols and CRM best practices.
 
@@ -114,12 +118,13 @@ Open to remote AI training data and annotation projects.
 ## 🎓 Education & Certifications
 
 - **B.A. Ed. Geography**, University of Lagos (2004 – 2009)
-- **Digital Witch Support Community**: In-Demand IT Skills Training (Feb 2026, Certificate ID DWSC19292), [view certificate](certificates/digital-witch-in-demand-it-skills.pdf)
-- **ALX Africa**: Virtual Assistance Skills in the Digital Age, 10-week programme (Sept 2025), [view certificate](certificates/alx-virtual-assistance.png), [verify online](https://savanna.alxafrica.com/certificates/67eBYn3mJX)
-- **Outskill**: Generative AI Mastermind, certificate of completion, [view certificate](certificates/outskill-generative-ai-mastermind.pdf)
-- **QMS ISO 9001:2015** Internal Auditing
+- **Digital Witch Support Community**: In-Demand IT Skills Training (Feb 2026, Certificate ID DWSC19292), [view certificate](https://eumoren.github.io/certificates/digital-witch-in-demand-it-skills.pdf)
+- **ALX Africa**: Virtual Assistance Skills in the Digital Age, 10-week programme (Sept 2025), [view certificate](https://eumoren.github.io/certificates/alx-virtual-assistance.png), [verify online](https://savanna.alxafrica.com/certificates/67eBYn3mJX)
+- **Outskill**: Generative AI Mastermind, certificate of completion, [view certificate](https://eumoren.github.io/certificates/outskill-generative-ai-mastermind.pdf)
+- **ISO Internal Auditor** (BSA Management System Services Ltd): ISO 9001:2015 (March 2022), ISO 14001:2015 and ISO 45001:2018 (December 2024), [view certificates](https://eumoren.github.io/#training)
 - **Graduate Member**, Nigerian Institute of Management
-- Procurement, Fleet & Warehouse Management · Customer Service Excellence · AI Productivity & Automation Tools
+- **More training**, with certificates on my [portfolio site](https://eumoren.github.io/#training): OEM product training (Winters University Levels 1 and 2), short online courses in procurement, warehousing and fleet management (2020 to 2021), and Diamond Academy training at Diamond Bank (2012 to 2013)
+- Customer Service Excellence · AI Productivity & Automation Tools
 
 **Languages:** English · Yoruba · Annang / Efik / Ibibio (all fluent)
 
@@ -141,4 +146,4 @@ Open to remote AI training data and annotation projects.
 
 I'm open to commercial, business development, CRM, operations and AI training data roles, as well as consulting engagements.
 
-📧 [emmumoren@gmail.com](mailto:emmumoren@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/emmanuel-polyumoren)
+📧 [emmumoren@gmail.com](mailto:emmumoren@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-poly-umoren/)
